@@ -75,25 +75,6 @@ Desarrollar mis habilidades en software y sistemas mediante la búsqueda constan
 </p>
 ---
 
-## 📂 Proyectos Destacados
-
-###  Aplicación Cineplanet (Java/C#)
-Desarrollo de una aplicación simulada de Cineplanet con funcionalidades de reserva de boletos, selección de asientos y gestión de películas.
-
-###  Página Web Banco BCP (C#)
-Desarrollo de una página web simulada del Banco BCP con funcionalidades de inicio de sesión, consulta de saldo y transferencias.
-
-###  Página Web para Pollería (PHP)
-Desarrollo de una página web para una pollería con sistema de pedidos online, gestión de menú y reservas.
-
-###  Aplicaciones Web para Empresas
-Desarrollo de aplicaciones web para empresas como Ta Listo, Central Medicamentos y Malak, adaptadas a sus necesidades específicas.
-
-###  ERP (En desarrollo)
-Actualmente trabajando en el desarrollo de un sistema ERP completo para gestión empresarial.
-
----
-
 ## 🔥 Estadísticas de GitHub
 
 <p align="center">
