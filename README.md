@@ -34,13 +34,13 @@ Desarrollar mis habilidades en software y sistemas mediante la búsqueda constan
 
 ## 🌐 Conéctate conmigo:
 <div align="center">
-  <a href="linkedin.com/in/jose-rafael-fabian-mendoza-3a40242b4">
+  <a href="https://www.linkedin.com/in/jose-rafael-fabian-mendoza-3a40242b4" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="rafael.fabian.mendoza@gmail.com">
+  <a href="mailto:rafael.fabian.mendoza@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="[https://github.com/JoseRafaelFabian](https://github.com/JRafael2023)">
+  <a href="https://github.com/JRafael2023" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
