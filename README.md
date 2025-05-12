@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy José Rafael <img height="35" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"></h1>
+<h1 align="center">Hola 👋, Soy Rafael <img height="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Desarrollador+de+Software;Especialista+en+Java+y+C%23;Creador+de+Aplicaciones+Web;Siempre+Aprendiendo&center=true&width=500&height=50">
@@ -108,11 +108,11 @@ Actualmente trabajando en el desarrollo de un sistema ERP completo para gestión
 ## 🔥 Estadísticas de GitHub
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=JRafael2023&theme=react&show_icons=true&include_all_commits=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRafael2023&theme=react&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrantLauro&theme=algolia" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JRafael2023&theme=algolia" />
 </p>
 
