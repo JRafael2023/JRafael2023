@@ -15,14 +15,14 @@
 
 ## 👨‍💻 Sobre mí
 
-- # Actualmente estoy trabajando en **desarrollo de un ERP**
-- # Aprendiendo constantemente sobre **Java, C#, PHP y Spring Boot**
-- # Graduado en **Software y Sistemas** del Instituto SISE (2021-2024)
-- # Abierto a colaborar en **proyectos de desarrollo web y aplicaciones**
-- # Contáctame en **rafael.fabian.mendoza@gmail.com**
-- # Teléfono: **(+51) 967864155**
-- # Ubicación: **Lima, Perú**
-- # Dato curioso: Me encanta enfrentar nuevos desafíos tecnológicos y aprender constantemente
+-  Actualmente estoy trabajando en **desarrollo de un ERP**
+-  Aprendiendo constantemente sobre **Java, C#, PHP y Spring Boot**
+-  Graduado en **Software y Sistemas** del Instituto SISE (2021-2024)
+-  Abierto a colaborar en **proyectos de desarrollo web y aplicaciones**
+-  Contáctame en **rafael.fabian.mendoza@gmail.com**
+-  Teléfono: **(+51) 967864155**
+-  Ubicación: **Lima, Perú**
+-  Dato curioso: Me encanta enfrentar nuevos desafíos tecnológicos y aprender constantemente
 
 ---
 
@@ -88,19 +88,19 @@ Desarrollar mis habilidades en software y sistemas mediante la búsqueda constan
 
 ## 📂 Proyectos Destacados
 
-### * Aplicación Cineplanet (Java/C#)
+###  Aplicación Cineplanet (Java/C#)
 Desarrollo de una aplicación simulada de Cineplanet con funcionalidades de reserva de boletos, selección de asientos y gestión de películas.
 
-### * Página Web Banco BCP (C#)
+###  Página Web Banco BCP (C#)
 Desarrollo de una página web simulada del Banco BCP con funcionalidades de inicio de sesión, consulta de saldo y transferencias.
 
-### * Página Web para Pollería (PHP)
+###  Página Web para Pollería (PHP)
 Desarrollo de una página web para una pollería con sistema de pedidos online, gestión de menú y reservas.
 
-### * Aplicaciones Web para Empresas
+###  Aplicaciones Web para Empresas
 Desarrollo de aplicaciones web para empresas como Ta Listo, Central Medicamentos y Malak, adaptadas a sus necesidades específicas.
 
-### * ERP (En desarrollo)
+###  ERP (En desarrollo)
 Actualmente trabajando en el desarrollo de un sistema ERP completo para gestión empresarial.
 
 ---
