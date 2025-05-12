@@ -12,20 +12,6 @@
 </p>
 
 ---
-
-## 👨‍💻 Sobre mí
-
--  Actualmente estoy trabajando en **desarrollo de un ERP**
--  Aprendiendo constantemente sobre **Java, C#, PHP y Spring Boot**
--  Graduado en **Software y Sistemas** del Instituto SISE (2021-2024)
--  Abierto a colaborar en **proyectos de desarrollo web y aplicaciones**
--  Contáctame en **rafael.fabian.mendoza@gmail.com**
--  Teléfono: **(+51) 967864155**
--  Ubicación: **Lima, Perú**
--  Dato curioso: Me encanta enfrentar nuevos desafíos tecnológicos y aprender constantemente
-
----
-
 ## 🚀 Objetivo Profesional
 
 Desarrollar mis habilidades en software y sistemas mediante la búsqueda constante de oportunidades que me permitan ampliar mis conocimientos y experiencia. Mi objetivo es convertirme en un profesional competente y versátil, adquiriendo una base sólida de experiencia en esta industria en constante evolución. Busco unirme a una empresa enfocada en el desarrollo de nuevas tecnologías que me permita crecer profesionalmente.
