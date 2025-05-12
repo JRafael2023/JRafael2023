@@ -81,8 +81,3 @@ Desarrollar mis habilidades en software y sistemas mediante la búsqueda constan
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=JRafael2023&theme=react&show_icons=true&include_all_commits=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRafael2023&theme=react&layout=compact" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JRafael2023&theme=algolia" />
-</p>
-
