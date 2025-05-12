@@ -67,23 +67,12 @@ Desarrollar mis habilidades en software y sistemas mediante la búsqueda constan
 
 ### 👉 Herramientas y Plataformas
 <p align="left">
-  <img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?logo=microsoft-sql-server&logoColor=white">
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?logo=visual-studio&logoColor=white">
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?logo=visual-studio-code&logoColor=white">
 </p>
-
-### 👉 Habilidades Personales
-<p align="left">
-  <img alt="Responsable" src="https://img.shields.io/badge/Responsable-%23009688.svg?style=flat">
-  <img alt="Disciplinado" src="https://img.shields.io/badge/Disciplinado-%23FF5722.svg?style=flat">
-  <img alt="Puntual" src="https://img.shields.io/badge/Puntual-%234CAF50.svg?style=flat">
-  <img alt="Ordenado" src="https://img.shields.io/badge/Ordenado-%233F51B5.svg?style=flat">
-  <img alt="Eficiente" src="https://img.shields.io/badge/Eficiente-%23F44336.svg?style=flat">
-  <img alt="Trabajo en Equipo" src="https://img.shields.io/badge/Trabajo%20en%20Equipo-%23FFC107.svg?style=flat">
-</p>
-
 ---
 
 ## 📂 Proyectos Destacados
