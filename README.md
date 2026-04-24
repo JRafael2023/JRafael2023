@@ -14,7 +14,7 @@
 ### Sobre mí
 
 - **Backend & Full Stack Developer** con +2 años de experiencia, desde **Lima, Perú**
-- **Mobile Developer** con Flutter & FlutterFlow (offline/online)
+- **Mobile Developer** con Flutter & FlutterFlow
 - Especialista en **automatización de procesos** con N8N, agentes IA y Google Workspace
 - Integración de **LLMs, RAG, WhatsApp API** y servicios cloud
 - Backend robusto con **PHP · Python · Supabase · MySQL · Firebase**
