@@ -113,10 +113,6 @@ const rafael = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JRafael2023&theme=tokyonight&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&hide_border=true&background=1a1b27"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JRafael2023&theme=tokyo-night&bg_color=1a1b27&color=a855f7&line=a855f7&point=ffffff&hide_border=true&area=true"/>
-</p>
-
 ---
 
 <p align="center">
