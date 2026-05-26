@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Rafael Fabian" width="100%"/>
-</p>
-
 <h1 align="center">Hi, I'm Rafael Fabian</h1>
 <h3 align="center">Backend & Full Stack Developer from Lima, Peru</h3>
 
